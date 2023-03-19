@@ -23,14 +23,14 @@
 <br>
 
 #### Cenários de Teste 📝
-[Feature - Operações Aritméticas]()
+[Feature - Operações Aritméticas](https://www.notion.so/Documenta-o-de-Comportamento-Dirigido-BDD-d2fa40d814e946f5b5124941fb29dca3?pvs=4)
 
 
 <br>
 
 ## Git Commands 📍
 
-[Descrição dos comandos completos utilizados]()
+[Descrição dos comandos completos utilizados](https://www.notion.so/Git-Commands-622f11c8ec3a4c749fc0cb4cc0527b4b?pvs=4)
 
 <br>
 
@@ -38,7 +38,7 @@
 
 ## Banco de Dados Relacional 🎲
 
-[Descrição dos comandos SQL]()
+[Descrição dos comandos SQL](https://www.notion.so/Banco-de-Dados-Relacional-8b8d80894e0d4064be10007f2500fd00?pvs=4)
 
 <br>
 
