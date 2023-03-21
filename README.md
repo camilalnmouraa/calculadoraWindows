@@ -7,7 +7,7 @@
 - [ Documentação de Comportamento Dirigido (BDD) ](#documentação-de-comportamento-dirigido)
 - [ Git Commands ](#git-commands)
 - [ Banco de Dados Relacional ](#banco-de-dados-relacional)
-- [ Test Complete ](#teste-complete)
+- [ TestComplete ](#testcomplete)
 
 <br>
 
@@ -42,7 +42,7 @@
 
 <br>
 
-## Test Complete 🤖
+## TestComplete 🤖
 
 **Objetivo:** 
 
