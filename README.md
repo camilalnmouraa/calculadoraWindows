@@ -67,8 +67,7 @@ Já deve ter instalado em seu computador:
 Se você não tiver, verifique estes links: [Node.js](https://nodejs.org/en/) | [TestComplete](https://filehonor.com/testcomplete/)
 
 
-### Assistir ao video do Projeto: [Google Drive](https://drive.google.com/file/d/19N6-Dfs1GM542OrIiVVhLYHn01E_Ff3R/view?usp=share_link)
-	
+
  ------
 	
 :speech_balloon: [Linkedin](https://www.linkedin.com/in/camilalnmoura/)
