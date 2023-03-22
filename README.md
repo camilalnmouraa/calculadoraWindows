@@ -64,7 +64,7 @@ Já deve ter instalado em seu computador:
 - TestComplete.
 
 
-Se você não tiver, verifique estes links: [Node.js](https://nodejs.org/en/) | [TestComplete](https://filehonor.com/testcomplete/)
+Se você não tiver, verifique estes links: [TestComplete](https://filehonor.com/testcomplete/)
 
 
 
