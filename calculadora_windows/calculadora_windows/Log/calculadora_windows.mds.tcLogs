@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="folders"/>
+		<Node name="logs">
+			<Node name="log idx=0000">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45006.8828631713"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{A7971EBE-6C35-479A-84CA-B93A50A01701}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [uTesteExecucao\Test1]"/>
+				<Prp name="relpath" type="S" value="21_03_2023_21_11_19_378\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0001">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45006.8846802431"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{21B8D2F9-C5C8-45AB-9F60-B1CAACB67FEE}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [uPrincipal\Test1]"/>
+				<Prp name="relpath" type="S" value="21_03_2023_21_13_56_373\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0002">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45006.8911527199"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{88AD9D63-7495-4BBB-BA2D-50CF6B941F14}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [uPrincipal\fecharCalculadora]"/>
+				<Prp name="relpath" type="S" value="21_03_2023_21_23_15_595\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0003">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45006.8917911227"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{D0FB88C5-C73D-4DD5-9762-1B53B37C00BE}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [uPrincipal\Test1]"/>
+				<Prp name="relpath" type="S" value="21_03_2023_21_24_10_753\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0004">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45006.8946787153"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{29E2E8E2-24BC-4601-85D4-41DD9323D5B3}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [uPrincipal\fecharCalculadora]"/>
+				<Prp name="relpath" type="S" value="21_03_2023_21_28_20_241\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0005">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45006.8950089699"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{A773EFE2-3D54-4A4E-9A7E-ED8EAC97913D}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [uPrincipal\Test1]"/>
+				<Prp name="relpath" type="S" value="21_03_2023_21_28_48_775\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0006">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45006.8951442361"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{2B1B7972-0F0B-40BC-A6EA-9F25691E3E1B}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [uPrincipal\Test1]"/>
+				<Prp name="relpath" type="S" value="21_03_2023_21_29_00_462\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0007">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45006.8975429745"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{6D7818B0-19FE-4207-83B1-3D7D19303F5F}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [uPrincipal\Test1]"/>
+				<Prp name="relpath" type="S" value="21_03_2023_21_32_27_713\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0008">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45006.8985549537"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{79FE4DF8-97C6-40DE-9E08-EA6AF756F692}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [uPrincipal\Test1]"/>
+				<Prp name="relpath" type="S" value="21_03_2023_21_33_55_148\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0009">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45006.8988164583"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{F9D1EE26-D00C-4A30-A8E9-C53166858AEE}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [uPrincipal\Test1]"/>
+				<Prp name="relpath" type="S" value="21_03_2023_21_34_17_742\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0010">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45006.8991631944"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{13217E0B-4EBF-4406-9275-8D41AA237C27}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [uPrincipal\Test1]"/>
+				<Prp name="relpath" type="S" value="21_03_2023_21_34_47_700\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+		</Node>
+		<Prp name="signature" type="S" value="{681DCC69-A39F-4C4D-8E7D-B2D9362FAF4F}"/>
+		<Prp name="version" type="S" value="11.0"/>
+	</Node>
+</Nodes>

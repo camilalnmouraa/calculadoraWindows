@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{46B28AA2-31DB-4DD5-A9E6-5681778400ED}">
+	<children>
+		<child name="calculadora_windows" key="{2789B758-F80A-42B8-B089-AFAD173A6F9C}" path="calculadora_windows\calculadora_windows.mds" />
+	</children>
+	<testItems key="{AD247BB3-8522-486D-AF0A-A4CE19722D66}">
+		<children>
+			<testItem key="{2789B758-F80A-42B8-B089-AFAD173A6F9C}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{BB1EF243-8E80-4007-8E94-C957406156F6}" />
+	<analysis key="{4482E540-3C31-4233-B2F4-88C449076876}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

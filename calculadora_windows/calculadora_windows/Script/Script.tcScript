@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="uPrincipal" key="{2A3CB1A9-0E16-41AC-95F4-B4817D924343}" path="uPrincipal.js" />
+	</children>
+</Root>
